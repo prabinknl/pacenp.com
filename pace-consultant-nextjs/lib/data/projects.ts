@@ -6,7 +6,7 @@ export const projects: Project[] = [
     title: 'Modern Villa Design',
     category: 'residential',
     location: 'Kathmandu',
-    image: '/pacenp.com/images/project-1.svg',
+    image: '/images/project-1.svg',
     alt: 'Modern Villa Design — residential project in Kathmandu',
   },
   {
@@ -14,7 +14,7 @@ export const projects: Project[] = [
     title: 'Office Complex',
     category: 'commercial',
     location: 'Lalitpur',
-    image: '/pacenp.com/images/project-2.svg',
+    image: '/images/project-2.svg',
     alt: 'Office Complex project in Lalitpur',
   },
   {
@@ -22,7 +22,7 @@ export const projects: Project[] = [
     title: 'Bridge Supervision',
     category: 'infrastructure',
     location: 'Chitwan',
-    image: '/pacenp.com/images/project-3.svg',
+    image: '/images/project-3.svg',
     alt: 'Bridge supervision project in Chitwan',
   },
   {
@@ -30,7 +30,7 @@ export const projects: Project[] = [
     title: 'Government Housing',
     category: 'government',
     location: 'Pokhara',
-    image: '/pacenp.com/images/project-1.svg',
+    image: '/images/project-1.svg',
     alt: 'Government housing project in Pokhara',
   },
 ];

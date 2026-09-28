@@ -4,8 +4,8 @@ import type { HeroStat, NavLink, SiteConfig } from '@/types';
 export const siteConfig: SiteConfig = {
   name: 'PACE Consultant',
   legalName: 'PACE Consultant (P). Ltd.',
-  tagline: "Building Nepal's Future with Precision and Excellence",
-  url: 'https://www.pace.com.np',
+  tagline: "Strong Foundations for Nepal's Future",
+  url: 'https://pacenp.com',
   email: 'paceconsultant@gmail.com',
   phone: {
     office: '+977-1-4720565',
@@ -48,9 +48,9 @@ export const heroStats: HeroStat[] = [
 /** Hero section copy */
 export const heroContent = {
   badge: 'Engineering Excellence Since 2001',
-  title: "Building Nepal's Future with Precision and Excellence",
+  title: "Strong Foundations for Nepal's Future",
   subtitle:
-    'Expert Architectural Design & Infrastructure Supervision — Trusted across Nepal for over 20 years',
+    'Expert Architectural Design & Infrastructure Supervision — Trusted nationally and internationally for over 20 years',
   ctaPrimary: { label: 'Explore Our Services', href: '/#services' },
   ctaSecondary: { label: 'View Our Projects', href: '/projects' },
 };

@@ -7,7 +7,7 @@ export const services: Service[] = [
     description:
       'Professional architectural design, planning, and master planning services for residential, commercial, institutional, sports complexes, and infrastructure development projects.',
     icon: 'drafting',
-    image: '/pacenp.com/images/architectural-design.png',
+    image: '/images/architectural-design.png',
   },
   {
     id: 'structural-design',
@@ -15,7 +15,7 @@ export const services: Service[] = [
     description:
       'Structural planning and design services for buildings and civil infrastructure, ensuring safety, durability, functionality, and compliance with applicable engineering standards.',
     icon: 'building',
-    image: '/pacenp.com/images/structural-design.jpg',
+    image: '/images/structural-design.jpg',
   },
   {
     id: 'construction-supervision',
@@ -23,7 +23,7 @@ export const services: Service[] = [
     description:
       'Preparation of detailed working drawings, municipal approval drawings, and supervision services for civil construction works to maintain quality and project standards.',
     icon: 'hard-hat',
-    image: '/pacenp.com/images/construction-supervision.jpg',
+    image: '/images/construction-supervision.jpg',
   },
   {
     id: 'property-valuation',
@@ -31,7 +31,7 @@ export const services: Service[] = [
     description:
       'Valuation of land, buildings, residential properties, commercial properties, and real estate assets based on government rates, market value, location, and property condition.',
     icon: 'chart',
-    image: '/pacenp.com/images/property-valuation.jpg',
+    image: '/images/property-valuation.jpg',
   },
   {
     id: 'water-resources',
@@ -39,7 +39,7 @@ export const services: Service[] = [
     description:
       'Services in hydrology, meteorology, hydrogeology, and preparation of master plans for sustainable water resources systems and infrastructure development.',
     icon: 'building',
-    image: '/pacenp.com/images/water-resources.jpg',
+    image: '/images/water-resources.jpg',
   },
   {
     id: 'hydropower-engineering',
@@ -47,7 +47,7 @@ export const services: Service[] = [
     description:
       'Feasibility study, planning, and design services for medium, small, mini, and micro hydropower schemes for sustainable energy development.',
     icon: 'hard-hat',
-    image: '/pacenp.com/images/hydropower-engineering.jpg',
+    image: '/images/hydropower-engineering.jpg',
   },
   {
     id: 'energy-development',
@@ -55,7 +55,7 @@ export const services: Service[] = [
     description:
       'Planning and study of energy generation and distribution systems with special emphasis on small and mini hydel sectors and village electrification solutions.',
     icon: 'tasks',
-    image: '/pacenp.com/images/energy-development.jpg',
+    image: '/images/energy-development.jpg',
   },
   {
     id: 'drinking-water-supply',
@@ -63,7 +63,7 @@ export const services: Service[] = [
     description:
       'Planning, design, distribution network analysis, and elevated tank design for rural drinking water supply systems and community water infrastructure.',
     icon: 'building',
-    image: '/pacenp.com/images/drinking-water-supply.jpg',
+    image: '/images/drinking-water-supply.jpg',
   },
   {
     id: 'highway-engineering',
@@ -71,7 +71,7 @@ export const services: Service[] = [
     description:
       'Survey, planning, and design services for highways, roads, bridges, culverts, pavement structures, and transportation infrastructure projects.',
     icon: 'hard-hat',
-    image: '/pacenp.com/images/highway-engineering.jpg',
+    image: '/images/highway-engineering.jpg',
   },
   {
     id: 'survey-engineering',
@@ -79,7 +79,7 @@ export const services: Service[] = [
     description:
       'Topographical surveys, route surveys, and engineering survey services required for planning, design, construction, and infrastructure development works.',
     icon: 'drafting',
-    image: '/pacenp.com/images/survey-engineering.jpg',
+    image: '/images/survey-engineering.jpg',
   },
   {
     id: 'environmental-studies',
@@ -111,6 +111,6 @@ export const services: Service[] = [
     description:
       'Social surveys, impact assessments, protection measures, resettlement action plans, social development plans, and safeguard planning services.',
     icon: 'interior',
-    image: '/pacenp.com/images/social-safeguards.jpg',
+    image: '/images/social-safeguards.jpg',
   },
 ];

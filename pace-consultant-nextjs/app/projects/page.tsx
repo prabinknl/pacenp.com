@@ -40,7 +40,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'World Bank Group',
     year: 'N/A',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-major-1.jpg'
+    image: '/images/projects/building-design-major-1.jpg'
   },
   {
     sn: 2,
@@ -48,7 +48,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Tzu-Chi Foundation, Taiwan',
     year: 'N/A',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-major-2.jpg',
+    image: '/images/projects/building-design-major-2.jpg',
     bullets: [
       'Bhaktapur Cancer Hospital, Bhaktapur (1 Block)',
       'Patan Multiple Campus, Lalitpur (4 Blocks)',
@@ -63,7 +63,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Office of the Registrar, T.U., Kirtipur',
     year: 'N/A',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-major-3.jpg',
+    image: '/images/projects/building-design-major-3.jpg',
     bullets: [
       'Vice Chancellor Office Building',
       'Rector Office Building',
@@ -86,7 +86,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Nepal Health Professional Council & Nepal Nursing Council at Bansbari, Kathmandu',
     year: 'N/A',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-major-4.jpg'
+    image: '/images/projects/building-design-major-4.jpg'
   },
   {
     sn: 5,
@@ -94,7 +94,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Nepal Telecommunication Authority, Tripureshwor',
     year: 'N/A',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-major-5.jpg'
+    image: '/images/projects/building-design-major-5.jpg'
   },
   {
     sn: 6,
@@ -102,7 +102,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Consultancy Services for Civil Works',
     year: 'N/A',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-major-6.jpg',
+    image: '/images/projects/building-design-major-6.jpg',
     bullets: [
       'T.U. Kirtipur',
       'I.O.M. Teaching Hospital, Maharajgunj, Kathmandu',
@@ -121,7 +121,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Government of Nepal Ministry of Education and Sports, Department of Education (DOE), Sanothimi, Bhaktapur',
     year: 'Jan, 2014',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-1.jpg'
+    image: '/images/projects/building-design-1.jpg'
   },
   {
     sn: 8,
@@ -129,7 +129,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'IOM, Nursing College, Maharajgunj, Kathmandu',
     year: 'Nov, 2014',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-2.jpg'
+    image: '/images/projects/building-design-2.jpg'
   },
   {
     sn: 9,
@@ -137,7 +137,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Hospital Building, New Spinal Cord Injury Ward at INF Green Pastures Hospital, Pokhara',
     year: 'Jan, 2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-3.jpg'
+    image: '/images/projects/building-design-3.jpg'
   },
   {
     sn: 10,
@@ -145,7 +145,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Nepal Telecom, Central Office, Bhadrakali, Kathmandu',
     year: 'Oct, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-4.jpg'
+    image: '/images/projects/building-design-4.jpg'
   },
   {
     sn: 11,
@@ -153,7 +153,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'B&C Medical College Teaching Hospital & Research Center Pvt. Ltd., Anarmani-3, Birtamode, Jhapa',
     year: 'Aug, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-5.jpg'
+    image: '/images/projects/building-design-5.jpg'
   },
   {
     sn: 12,
@@ -161,7 +161,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Kantipur Dental College Teaching Hospital & Research Center, Dhapasi, Basundhara, Ring Road',
     year: 'June, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-6.jpg'
+    image: '/images/projects/building-design-6.jpg'
   },
   {
     sn: 13,
@@ -169,7 +169,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'T.U., IOM, B.P. Koirala Lions Center of Ophthalmic Studies, Maharajgunj',
     year: 'Sept, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-7.jpg'
+    image: '/images/projects/building-design-7.jpg'
   },
   {
     sn: 14,
@@ -177,7 +177,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'IOM, Maharajgunj Medicine Campus at Maharajgunj',
     year: 'Dec, 2011',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-8.jpg'
+    image: '/images/projects/building-design-8.jpg'
   },
   {
     sn: 15,
@@ -185,7 +185,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Nepal Rastra Bank, Baluwatar',
     year: 'Oct, 2011',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-9.jpg'
+    image: '/images/projects/building-design-9.jpg'
   },
   {
     sn: 16,
@@ -193,7 +193,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Government of Nepal, Nepal Academy of Tourism & Hotel Management, Rabibhawan',
     year: 'Sept, 2010',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-10.jpg'
+    image: '/images/projects/building-design-10.jpg'
   },
   {
     sn: 17,
@@ -201,7 +201,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: "Guardian's Co-operative Society Ltd. (Asali), Naxal",
     year: 'Feb, 2009',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-11.jpg'
+    image: '/images/projects/building-design-11.jpg'
   },
   {
     sn: 18,
@@ -209,7 +209,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Pashupati Multiple Campus, Chabahil, Mitrapark',
     year: 'Jan, 2008',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-12.jpg'
+    image: '/images/projects/building-design-12.jpg'
   },
   {
     sn: 19,
@@ -217,7 +217,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'Village Travel & Tours (P) Ltd., Lazimpat',
     year: 'March, 2008',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-13.jpg'
+    image: '/images/projects/building-design-13.jpg'
   },
   {
     sn: 20,
@@ -225,7 +225,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'UN World Food Programme',
     year: 'Dec, 2007',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-14.jpg'
+    image: '/images/projects/building-design-14.jpg'
   },
   {
     sn: 21,
@@ -233,7 +233,7 @@ const buildingDesignProjects: CompletedProject[] = [
     client: 'New Life Handicapped and 24 Hours Prayer Ministry',
     year: 'June, 2005',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/building-design-15.jpg'
+    image: '/images/projects/building-design-15.jpg'
   }
 ];
 
@@ -244,7 +244,7 @@ const interiorDesignProjects: CompletedProject[] = [
     client: 'Government of Nepal, Ministry of Urban Development Singhdurbar Secretariat Re-construction Committee Board',
     year: 'April, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/interior-design-1.jpg'
+    image: '/images/projects/interior-design-1.jpg'
   },
   {
     sn: 2,
@@ -252,7 +252,7 @@ const interiorDesignProjects: CompletedProject[] = [
     client: 'Government of Nepal, Ministry of Urban Development Singhdurbar Secretariat Re-construction Committee Board',
     year: 'April, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/interior-design-2.jpg'
+    image: '/images/projects/interior-design-2.jpg'
   },
   {
     sn: 3,
@@ -260,7 +260,7 @@ const interiorDesignProjects: CompletedProject[] = [
     client: 'Nepal Rastra Bank, Baluwatar',
     year: 'July, 2011',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/interior-design-3.jpg'
+    image: '/images/projects/interior-design-3.jpg'
   },
   {
     sn: 4,
@@ -268,7 +268,7 @@ const interiorDesignProjects: CompletedProject[] = [
     client: 'Ministry of Foreign Affairs, Kathmandu, Nepal',
     year: 'Jan, 2010',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/interior-design-4.jpg'
+    image: '/images/projects/interior-design-4.jpg'
   },
   {
     sn: 5,
@@ -276,7 +276,7 @@ const interiorDesignProjects: CompletedProject[] = [
     client: 'Teaching Hospital at Maharajgunj',
     year: 'March, 2007',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/interior-design-5.jpg'
+    image: '/images/projects/interior-design-5.jpg'
   }
 ];
 
@@ -287,7 +287,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'Nepal Rastra Bank, General Services Department, Baluwatar, Kathmandu',
     year: 'March, 2014',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-1.jpg'
+    image: '/images/projects/master-plan-1.jpg'
   },
   {
     sn: 2,
@@ -295,7 +295,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'T.U. IOM, Ayurveda Campus at Kirtipur',
     year: 'Jan, 2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-2.jpg'
+    image: '/images/projects/master-plan-2.jpg'
   },
   {
     sn: 3,
@@ -303,7 +303,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'Nepal Health Professional Council & Nepal Nursing Council at Bansbari, Kathmandu',
     year: 'Dec, 2013',
     remarks: 'Supervision',
-    image: '/pacenp.com/images/projects/master-plan-3.jpg'
+    image: '/images/projects/master-plan-3.jpg'
   },
   {
     sn: 4,
@@ -311,7 +311,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'Citizen Investment Trust, Baneshwor',
     year: 'Sept, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-4.jpg'
+    image: '/images/projects/master-plan-4.jpg'
   },
   {
     sn: 5,
@@ -319,7 +319,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'Nepal Telecommunication Authority, Tripureshwor',
     year: 'Sept, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-5.jpg'
+    image: '/images/projects/master-plan-5.jpg'
   },
   {
     sn: 6,
@@ -327,7 +327,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'Nepal Industrial Development Corporation Ltd., Durbar Marg, Kathmandu',
     year: 'Jan, 2011',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-6.jpg'
+    image: '/images/projects/master-plan-6.jpg'
   },
   {
     sn: 7,
@@ -335,7 +335,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'Department of Urban Development & Building Construction',
     year: 'Oct, 2007',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-7.jpg'
+    image: '/images/projects/master-plan-7.jpg'
   },
   {
     sn: 8,
@@ -343,7 +343,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'Department of Urban Development & Building Construction',
     year: 'Oct, 2007',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-8.jpg'
+    image: '/images/projects/master-plan-8.jpg'
   },
   {
     sn: 9,
@@ -351,7 +351,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'Department of Urban Development & Building Construction',
     year: 'Oct, 2007',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-9.jpg'
+    image: '/images/projects/master-plan-9.jpg'
   },
   {
     sn: 10,
@@ -359,7 +359,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'Department of Urban Development & Building Construction',
     year: 'Oct, 2007',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-10.jpg'
+    image: '/images/projects/master-plan-10.jpg'
   },
   {
     sn: 11,
@@ -367,7 +367,7 @@ const masterPlanProjects: CompletedProject[] = [
     client: 'IOM, Office of the Dean, Maharajgunj',
     year: 'July, 2005',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/master-plan-11.jpg'
+    image: '/images/projects/master-plan-11.jpg'
   }
 ];
 
@@ -378,7 +378,7 @@ const hydropowerProjects: CompletedProject[] = [
     client: 'Triyog Energy & Development (P) Ltd., Maharajgunj',
     year: 'Oct, 2009',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/hydropower-1.jpg'
+    image: '/images/projects/hydropower-1.jpg'
   },
   {
     sn: 2,
@@ -386,7 +386,7 @@ const hydropowerProjects: CompletedProject[] = [
     client: 'Nayam Nayam (Upper) Khola Hydropower Project, Rasuwa',
     year: 'Nov, 2011',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/hydropower-2.jpg'
+    image: '/images/projects/hydropower-2.jpg'
   },
   {
     sn: 3,
@@ -394,7 +394,7 @@ const hydropowerProjects: CompletedProject[] = [
     client: 'Shreerup Hydropower Project, Kathmandu',
     year: 'July, 2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/hydropower-3.jpg'
+    image: '/images/projects/hydropower-3.jpg'
   }
 ];
 
@@ -405,7 +405,7 @@ const technicalAuditProjects: CompletedProject[] = [
     client: 'District Police Office, Chitwan',
     year: '25th July, 2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/technical-audit-1.jpg'
+    image: '/images/projects/technical-audit-1.jpg'
   },
   {
     sn: 2,
@@ -413,7 +413,7 @@ const technicalAuditProjects: CompletedProject[] = [
     client: 'District Police Office, Dhading',
     year: '25th July, 2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/technical-audit-2.jpg'
+    image: '/images/projects/technical-audit-2.jpg'
   },
   {
     sn: 3,
@@ -421,7 +421,7 @@ const technicalAuditProjects: CompletedProject[] = [
     client: 'DUDBC, Janakpur',
     year: '25th July, 2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/technical-audit-3.jpg'
+    image: '/images/projects/technical-audit-3.jpg'
   },
   {
     sn: 4,
@@ -429,7 +429,7 @@ const technicalAuditProjects: CompletedProject[] = [
     client: 'DUDBC, Ilam',
     year: '25th July, 2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/technical-audit-4.jpg'
+    image: '/images/projects/technical-audit-4.jpg'
   },
   {
     sn: 5,
@@ -437,7 +437,7 @@ const technicalAuditProjects: CompletedProject[] = [
     client: 'DUDBC, Kailali',
     year: 'July, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/technical-audit-5.jpg'
+    image: '/images/projects/technical-audit-5.jpg'
   },
   {
     sn: 6,
@@ -445,7 +445,7 @@ const technicalAuditProjects: CompletedProject[] = [
     client: 'DUDBC, Kailali',
     year: 'July, 2012',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/technical-audit-6.jpg'
+    image: '/images/projects/technical-audit-6.jpg'
   },
   {
     sn: 7,
@@ -453,7 +453,7 @@ const technicalAuditProjects: CompletedProject[] = [
     client: 'Department of Education, Sanothimi, District Education Office, Kailali',
     year: '2013',
     remarks: 'Final Report Submitted',
-    image: '/pacenp.com/images/projects/technical-audit-7.jpg'
+    image: '/images/projects/technical-audit-7.jpg'
   }
 ];
 
@@ -464,7 +464,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Embassy of Denmark',
     year: '2016',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-1.jpg'
+    image: '/images/projects/valuation-1.jpg'
   },
   {
     sn: 2,
@@ -472,7 +472,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Royal-Rara-Api Joint Merger Committee Secretariat, Sita Kuti, Durbar Marg, Kathmandu',
     year: '2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-2.jpg'
+    image: '/images/projects/valuation-2.jpg'
   },
   {
     sn: 3,
@@ -480,7 +480,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Siddhartha Development Bank Ltd. & Public Development Bank Ltd. Joint Merger Committee Secretariat',
     year: '2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-3.jpg'
+    image: '/images/projects/valuation-3.jpg'
   },
   {
     sn: 4,
@@ -488,7 +488,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Karmachari Sanchaya Kosh, Pulchowk',
     year: '2015',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-4.jpg'
+    image: '/images/projects/valuation-4.jpg'
   },
   {
     sn: 5,
@@ -496,7 +496,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Bank of Kathmandu, Kamaladi',
     year: '2015',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-5.jpg'
+    image: '/images/projects/valuation-5.jpg'
   },
   {
     sn: 6,
@@ -504,7 +504,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Agriculture Development Bank, Kathmandu',
     year: '2015',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-6.jpg'
+    image: '/images/projects/valuation-6.jpg'
   },
   {
     sn: 7,
@@ -512,7 +512,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Rastriya Banijya Bank, Kathmandu',
     year: '2015',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-7.jpg'
+    image: '/images/projects/valuation-7.jpg'
   },
   {
     sn: 8,
@@ -520,7 +520,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Citizens Bank International, Kamaladi, Kathmandu',
     year: '2014',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-8.jpg'
+    image: '/images/projects/valuation-8.jpg'
   },
   {
     sn: 9,
@@ -528,7 +528,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Bright Development Bank, Panauti, Kavre, Nepal',
     year: '2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-9.jpg'
+    image: '/images/projects/valuation-9.jpg'
   },
   {
     sn: 10,
@@ -536,7 +536,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'Nepal Housing Development Finance Company Ltd., New Baneshwor',
     year: '2013',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-10.jpg'
+    image: '/images/projects/valuation-10.jpg'
   },
   {
     sn: 11,
@@ -544,7 +544,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'NCC Bank, NB Building, Bagbazar',
     year: '2015',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-11.jpg'
+    image: '/images/projects/valuation-11.jpg'
   },
   {
     sn: 12,
@@ -552,7 +552,7 @@ const valuationProjects: CompletedProject[] = [
     client: 'NIDC, Darbar Marg, Kathmandu',
     year: '2015',
     remarks: 'Completed',
-    image: '/pacenp.com/images/projects/valuation-12.jpg'
+    image: '/images/projects/valuation-12.jpg'
   }
 ];
 
@@ -576,7 +576,7 @@ const focusAreas: FocusArea[] = [
       title: 'District Education Office Building at Okhaldhunga',
       client: 'Government of Nepal Ministry of Education and Sports',
       year: '2014',
-      image: '/pacenp.com/images/projects/building-design-1.jpg',
+      image: '/images/projects/building-design-1.jpg',
       description: 'Detail architectural/engineering design and drawing works for public office facility.'
     }
   },
@@ -596,7 +596,7 @@ const focusAreas: FocusArea[] = [
       title: 'Modern Corporate Office Interior Design at Lalitpur',
       client: 'Private Corporate Client',
       year: '2022',
-      image: '/pacenp.com/images/about-office.jpg',
+      image: '/images/about-office.jpg',
       description: 'Premium modern interior fit-out featuring ergonomic workspaces, custom acoustics, and glassmorphic branding screens.'
     }
   },
@@ -615,7 +615,7 @@ const focusAreas: FocusArea[] = [
       title: 'Detailed Master Plan of Sports Complex at Pokhara',
       client: 'Ministry of Youth and Sports, Nepal',
       year: '2019',
-      image: '/pacenp.com/images/water-resources.jpg',
+      image: '/images/water-resources.jpg',
       description: 'Comprehensive planning and landscape layout of a regional sports stadium complex including hostels, arenas, and green buffers.'
     }
   },
@@ -635,7 +635,7 @@ const focusAreas: FocusArea[] = [
       title: 'Detailed Engineering Design of Hydropower Scheme (5.5 MW)',
       client: 'Independent Power Producers Association, Nepal',
       year: '2020',
-      image: '/pacenp.com/images/hydropower-engineering.jpg',
+      image: '/images/hydropower-engineering.jpg',
       description: 'DPR preparation including geology review, sediment testing, intake planning, tunnel routing, and powerhouse civil structure design.'
     }
   },
@@ -654,7 +654,7 @@ const focusAreas: FocusArea[] = [
       title: 'Detailed Design of Community Water Supply Project at Chitwan',
       client: 'Department of Water Supply and Sewerage (DWSS)',
       year: '2021',
-      image: '/pacenp.com/images/drinking-water-supply.jpg',
+      image: '/images/drinking-water-supply.jpg',
       description: 'Hydraulic modeling of pipeline distribution network, intake structure, sand filtration treatment plant, and a 200 m³ elevated tank.'
     }
   },
@@ -674,7 +674,7 @@ const focusAreas: FocusArea[] = [
       title: 'Geometric Design and DPR of Rural Link Road',
       client: 'Department of Local Infrastructure (DoLI), Nepal',
       year: '2018',
-      image: '/pacenp.com/images/highway-engineering.jpg',
+      image: '/images/highway-engineering.jpg',
       description: 'Topographical route survey, road geometry alignment, drainage structure design, and cost estimations for a 15 km all-weather link road.'
     }
   },
@@ -693,7 +693,7 @@ const focusAreas: FocusArea[] = [
       title: 'Topographical Survey & GIS Mapping for Smart City Development',
       client: 'Town Development Fund, Government of Nepal',
       year: '2021',
-      image: '/pacenp.com/images/survey-engineering.jpg',
+      image: '/images/survey-engineering.jpg',
       description: 'DGPS horizontal control network establishment, contour survey, and GIS mapping of physical assets over 400 hectares.'
     }
   },
@@ -712,7 +712,7 @@ const focusAreas: FocusArea[] = [
       title: 'Asset Valuation of Industrial Complex at Birgunj',
       client: 'Nepal Rastra Bank & Commercial Banks',
       year: '2023',
-      image: '/pacenp.com/images/property-valuation.jpg',
+      image: '/images/property-valuation.jpg',
       description: 'Comprehensive physical inventory and fair market valuation of land, factory structures, and utilities for financial appraisal.'
     }
   },
@@ -769,7 +769,7 @@ const focusAreas: FocusArea[] = [
       title: 'Social Safeguard and Resettlement Action Plan for Transmission Line',
       client: 'Nepal Electricity Authority (NEA)',
       year: '2022',
-      image: '/pacenp.com/images/social-safeguards.jpg',
+      image: '/images/social-safeguards.jpg',
       description: 'Household baseline survey, compensation valuation, and grievance redressal coordination for project affected families.'
     }
   }
@@ -790,7 +790,7 @@ function ProjectImagePreview({
   year: string;
 }) {
   const [imgError, setImgError] = useState(false);
-  const fallbackSrc = '/pacenp.com/images/projects/project-portfolio-hero.png';
+  const fallbackSrc = '/images/projects/project-portfolio-hero.png';
 
   useEffect(() => {
     setImgError(false);
@@ -828,7 +828,7 @@ function ProjectImagePreview({
 
 function FeaturedProjectImagePreview({ src, alt }: { src: string; alt: string }) {
   const [imgError, setImgError] = useState(false);
-  const fallbackSrc = '/pacenp.com/images/projects/project-portfolio-hero.png';
+  const fallbackSrc = '/images/projects/project-portfolio-hero.png';
 
   useEffect(() => {
     setImgError(false);
@@ -933,7 +933,7 @@ export default function ProjectsPage() {
       <div className="container-pace mb-12">
         <div className="relative overflow-hidden rounded-2xl min-h-[12rem] sm:min-h-[13rem] md:min-h-[14rem]">
           <Image
-            src="/pacenp.com/images/mount-everest.png"
+            src="/images/mount-everest.png"
             alt="Snow-capped mountains in Nepal"
             fill
             className="object-cover object-center"
@@ -958,7 +958,7 @@ export default function ProjectsPage() {
                     </span>
                   </div>
                   <h1 className="font-heading text-xl sm:text-2xl md:text-[1.75rem] font-bold text-primary leading-snug mb-3 text-balance">
-                    Engineering and design projects across Nepal
+                    National and international engineering and design projects
                   </h1>
                   <p className="text-sm sm:text-base text-slate-700 leading-relaxed max-w-2xl">
                     View completed work in residential, commercial, infrastructure, and government sectors.
@@ -1550,7 +1550,7 @@ export default function ProjectsPage() {
             Our Clients
           </h2>
           <p className="text-sm text-slate-500 mt-1">
-            We are proud to have collaborated with leading international agencies, national departments, and private entities across Nepal.
+            We are proud to have collaborated with leading international agencies, national departments, and private entities nationally and internationally.
           </p>
         </div>
 

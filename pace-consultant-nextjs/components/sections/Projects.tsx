@@ -18,7 +18,7 @@ export function Projects() {
           label="Our Work"
           title="Featured Projects"
           titleId="projects-heading"
-          subtitle="Delivering excellence across Nepal"
+          subtitle="Delivering excellence nationally and internationally"
         />
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">

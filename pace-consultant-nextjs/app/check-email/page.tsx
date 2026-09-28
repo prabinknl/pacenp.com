@@ -171,7 +171,7 @@ export default function CheckEmailPage() {
           <div className="flex flex-col items-center mb-6">
             <div className="flex items-center justify-center gap-2 border border-gray-100 bg-gray-50/50 rounded-full px-4.5 py-2 shadow-sm max-w-full">
               <img
-                src="/pacenp.com/images/logo-emblem.png"
+                src="/images/logo-emblem.png"
                 alt="PACE logo"
                 className="h-7 w-auto shrink-0 object-contain"
                 loading="eager"

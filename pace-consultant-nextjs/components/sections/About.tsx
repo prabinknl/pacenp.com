@@ -32,7 +32,7 @@ export function About() {
               engineering consultancy established in 2001, specializing in architectural design and
               infrastructure supervision. For more than two decades, we have partnered with developers,
               institutions, and government agencies to deliver technically sound, buildable solutions
-              across Nepal.
+              nationally and internationally.
             </p>
 
             <p className="mt-4 text-base leading-relaxed text-muted">

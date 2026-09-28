@@ -41,7 +41,7 @@ export function Hero() {
       aria-label="Hero"
       className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden pt-36 pb-28 text-white bg-cover bg-center bg-no-repeat"
       style={{
-        backgroundImage: `linear-gradient(135deg, rgba(13, 33, 55, 0.8) 0%, rgba(26, 60, 94, 0.7) 100%), url('/pacenp.com/images/hero-bg.png')`,
+        backgroundImage: `linear-gradient(135deg, rgba(13, 33, 55, 0.8) 0%, rgba(26, 60, 94, 0.7) 100%), url('/images/hero-bg.png')`,
       }}
     >
       {/* Decorative particles (Option B pattern) */}
@@ -67,7 +67,7 @@ export function Hero() {
       <motion.div
         className="container-pace relative z-10 flex flex-col items-center text-center"
         variants={containerVariants}
-        initial="hidden"
+        initial={false}
         animate="visible"
       >
         <motion.span
@@ -79,14 +79,14 @@ export function Hero() {
 
         <motion.h1
           variants={itemVariants}
-          className="font-heading text-4xl font-bold leading-tight text-white md:text-5xl lg:text-[3.5rem] max-w-4xl text-balance"
+          className="font-heading text-lg font-semibold leading-snug tracking-[0.06em] text-green-400 md:text-xl lg:text-2xl max-w-3xl text-balance"
         >
           {heroContent.title}
         </motion.h1>
 
         <motion.p
           variants={itemVariants}
-          className="mt-5 max-w-xl text-lg leading-relaxed text-white/90"
+          className="mt-4 max-w-2xl text-xl font-medium leading-relaxed text-white md:text-2xl"
         >
           {heroContent.subtitle}
         </motion.p>

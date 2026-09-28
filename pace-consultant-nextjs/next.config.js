@@ -1,7 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  basePath: '/pacenp.com',
   trailingSlash: true,
   reactStrictMode: true,
   images: {

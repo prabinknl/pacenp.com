@@ -116,7 +116,7 @@ export function Navbar() {
           aria-label={`${navLinks[0].label} — PACE Consultant home`}
         >
           <img
-            src="/pacenp.com/images/logo-with-name.png"
+            src="/images/logo-with-name.png"
             alt="PACE Consultant (P). Ltd. Logo"
             className={cn(
               'w-auto object-contain transition-all duration-300',

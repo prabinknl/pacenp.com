@@ -14,7 +14,7 @@ export function Team() {
           label="Our Team"
           title="Meet the Experts Behind Our Success"
           titleId="team-heading"
-          subtitle="A multidisciplinary team of licensed engineers, architects, and project specialists — united by a shared commitment to safe, standards-compliant design across Nepal."
+          subtitle="A multidisciplinary team of licensed engineers, architects, and project specialists — united by a shared commitment to safe, standards-compliant design nationally and internationally."
         />
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
