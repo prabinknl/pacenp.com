@@ -29,24 +29,29 @@ pace-website/
 └── pace-consultant-nextjs/ # Next.js 14 + TypeScript (see README inside)
 ```
 
-## Two Projects in This Repo
+## Running the Projects
 
-| Folder | Type | How to run |
-|--------|------|------------|
-| `pace-website/` (root) | Static HTML/CSS/JS | Open `index.html` in a browser, or `npx serve .` |
-| `pace-consultant-nextjs/` | Next.js 14 + TypeScript | `cd pace-consultant-nextjs` then `npm install` and `npm run dev` |
+You can run both projects or each project individually from the repository root:
 
-> **Note:** `npm run dev` must be run from `pace-consultant-nextjs/` — there is no `package.json` in the root folder.
+| Command | Description | URL |
+|---------|-------------|-----|
+| `npm run dev:all` | Run **both** static site and Next.js concurrently | [http://localhost:8080](http://localhost:8080) & [http://localhost:3001](http://localhost:3001) |
+| `npm run dev` (or `npm run dev:next`) | Run Next.js app | [http://localhost:3001](http://localhost:3001) |
+| `npm run dev:static` | Run static HTML/CSS/JS site | [http://localhost:8080](http://localhost:8080) |
 
-### Run the Next.js app (PowerShell)
+### Run Both Simultaneously (Recommended)
 
+From the root folder:
 ```powershell
-cd "D:\One drive\OneDrive\App Dev\Web page\pacenp.com\pace-website\pace-consultant-nextjs"
-npm install
-npm run dev
+npm run dev:all
 ```
 
-Then open [http://localhost:3001](http://localhost:3001).
+### Run Next.js Only
+
+```powershell
+npm run dev
+```
+*(or `cd pace-consultant-nextjs` and `npm run dev`)*
 
 If `npm install` fails (e.g. OneDrive sync conflicts), close other terminals, delete the `node_modules` folder inside `pace-consultant-nextjs`, and run `npm install` again.
 

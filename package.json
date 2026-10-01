@@ -5,9 +5,16 @@
   "description": "PACE Consultant website — static site (root) + Next.js app (pace-consultant-nextjs)",
   "scripts": {
     "dev": "npm run dev --prefix pace-consultant-nextjs",
+    "dev:next": "npm run dev --prefix pace-consultant-nextjs",
+    "dev:static": "npx --yes serve -l 8080 .",
+    "dev:all": "npx --yes concurrently -n \"static,nextjs\" -c \"cyan,magenta\" \"npm run dev:static\" \"npm run dev:next\"",
     "build": "npm install --include=dev --prefix pace-consultant-nextjs && npm run build --prefix pace-consultant-nextjs",
     "start": "npm run start --prefix pace-consultant-nextjs",
     "lint": "npm run lint --prefix pace-consultant-nextjs",
     "install:next": "npm install --include=dev --prefix pace-consultant-nextjs"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "serve": "^14.2.4"
   }
 }
